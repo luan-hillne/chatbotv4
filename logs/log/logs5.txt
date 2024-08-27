@@ -1,0 +1,26 @@
+/data/anaconda3/envs/langchain/lib/python3.10/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+/data/anaconda3/envs/langchain/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+INFO:     Started server process [2663309]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8091 (Press CTRL+C to quit)
+----------------NEW_SESSION--------------
+NumberRequest 1
+User  =  279706
+InputText  =  None
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [{'payload': 'Bạn muốn tra cứu hàng tồn kho?', 'title': 'Bạn muốn tra cứu hàng tồn kho?'}, {'payload': 'Bạn muốn tìm kiếm sản phẩm tương tự?', 'title': 'Bạn muốn tìm kiếm sản phẩm tương tự?'}, {'payload': 'Tôi muốn tìm sản phẩm Đèn năng mặt trời cao cấp?', 'title': 'Tôi muốn tìm sản phẩm Đèn năng mặt trời cao cấp?'}, {'payload': 'Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?', 'title': 'Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?'}], 'inventory_status': False, 'similarity_status': False, 'content': 'Rất vui khi được hỗ trợ anh/chị trong việc tìm kiếm sản phẩm. Do đang trong quá trình hoàn thiện nên tôi có thể mắc lỗi. Mong anh/chị thông cảm!', 'status': 200, 'message': '', 'time_processing': 0.0030579566955566406, 'type_input': 'first_text', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:34926 - "POST /llm HTTP/1.1" 200 OK
+----------------NEW_SESSION--------------
+NumberRequest 2
+User  =  279706
+InputText  =  None
+----Inventory-----
+------ma------ 38/24GCVUE024_ĐIỀU HÒA 24000 BTU 1 CHIỀU INVERTER
+============get_inventory============
+============in_stock============
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [], 'inventory_status': False, 'similarity_status': False, 'content': '- Với mã/tên sản phẩm 38/24GCVUE024_ĐIỀU HÒA 24000 BTU 1 CHIỀU INVERTER: \nHiện tại tôi không thể tra cứu thông tin hàng tồn kho của sản phẩm bạn đang mong muốn, xin vui lòng thử lại sau.\n\n', 'status': 200, 'message': '', 'time_processing': 0.969489574432373, 'type_input': 'inventory', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:34928 - "POST /llm HTTP/1.1" 200 OK

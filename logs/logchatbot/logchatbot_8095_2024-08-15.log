@@ -1,0 +1,1370 @@
+2024/08/15 14:25:07 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:07 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:07 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:07 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:07 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:07 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:07 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:07 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:07 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:07 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:07 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:07 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:07 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:07 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:07 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:07 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:07 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:07 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:07 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:07 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:07 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:07 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:07 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:07 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:07 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:07 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:07 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:07 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:07 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:07 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:08 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:09 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:25:10 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:04 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:04 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:36:04 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:04 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:04 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC. Tôi ở đây để hỗ trợ Anh/chị với thông tin sản phẩm và dịch vụ. Anh/chị cần tôi giúp gì không?
+2024/08/15 14:36:52 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:52 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:52 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:52 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:52 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:52 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:52 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:52 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:52 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:52 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:52 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:52 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:53 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:53 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:53 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:53 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:53 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:53 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:53 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:53 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:53 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:53 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:53 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:53 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:53 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:53 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:53 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:53 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:53 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:53 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:53 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:53 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:53 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:53 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:53 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:53 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:53 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:53 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:53 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:53 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:53 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:53 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:54 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:54 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:54 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:54 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:54 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:54 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:54 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:54 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:54 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:54 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:54 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:54 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:54 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:54 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:54 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:54 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:54 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:54 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:54 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:54 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:54 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:54 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:54 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:54 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:55 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 chat,line: 103     INFO | +rasa out+:
+Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:55 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:55 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:55 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:55 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:55 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:55 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:55 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:55 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 main_run,line: 199     INFO | ---results---: Xin chào! Tôi là trợ lý mua sắm của VCC. Anh/chị có thể hỏi tôi về sản phẩm, giá cả, và các dịch vụ khác. Có điều gì Anh/chị muốn biết thêm không?
+2024/08/15 14:36:55 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:55 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:55 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:55 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:55 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:55 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:55 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:55 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:55 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:55 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:55 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:55 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:55 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:55 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:55 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:55 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:55 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:55 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:55 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:55 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:55 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:55 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:55 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:55 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:55 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:55 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:55 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:55 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:55 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:55 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:56 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:56 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:56 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:56 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:56 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:56 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:56 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:56 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:56 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:56 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:56 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:56 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:56 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:56 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:56 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:56 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:56 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:56 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:56 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:56 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:56 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:56 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:56 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:56 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:56 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:56 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:56 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:56 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:56 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:56 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:56 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:56 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:56 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:56 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:56 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:56 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:56 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:56 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:56 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:56 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:56 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:56 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:56 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:56 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:56 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:56 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:56 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 103     INFO | +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 main_run,line: 199     INFO | ---results---: Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 app_chat3,line: 33     INFO | InputText: xin chào
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:57 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 103     INFO | +rasa out+:
+Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:36:58 main_run,line: 199     INFO | ---results---: Xin chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp Anh/chị trả lời các câu hỏi liên quan đến mua sắm. Anh/chị có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu Anh/chị có bất kỳ câu hỏi nào khác!
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 app_chat3,line: 33     INFO | InputText: dieu hoa
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 main_run,line: 131     INFO | ---ChatText---
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:04 chat,line: 84     INFO | =====rasa=====
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 105     INFO | ====rasa done!====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:05 chat,line: 109     INFO | =====LLM=====
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:07 chat,line: 61     INFO | ==Conversation2==
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 159     INFO | +LLM out+:
+Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR (GHCVB190/2180C5T6C4D3P9ZM/VC90FUV01W-21D03UUVS12EVCQ30K07LNVVS200X16KVC180300310170YLC600510610UV10118037011Q22UV04H60151-51021X26ZDC14E40Q39A92N56/68E31016171SAC14120224Y011616140313143150001
+  Diện tích sử dụng: 25 - 30m²
+  Mức tiêu thụ điện: 2.5kW/h
+  Trọng lượng:
+ + Dàn lạnh: 14kg
+ + Dàn nóng: 20kg
+  Giá tiền: Khoảng 21 triệu đồng
+
+2. Điều Hòa Panasonic CU/CS-KC18UKT (Đặc Biệt - Gas R410)
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn (diện tích sử dụng, loại điều hòa yêu cầu,...) để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 chat,line: 161     INFO | =====LLM done!=====
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!
+2024/08/15 14:38:09 main_run,line: 199     INFO | ---results---: Điều hòa!
+
+Tôi có thể giúp bạn tìm kiếm thông tin về điều hòa. Dưới đây là một số sản phẩm điều hòa đang có mặt tại cửa hàng của chúng tôi:
+
+1. Điều Hòa Multi Inverter 2.0 HP 5GS18USYZR 
+  Diện tích sử dụng: 30 - 35m²
+  Mức tiêu thụ điện: 3.3kW/h
+  Trọng lượng:
+ + Dàn lạnh: 15kg
+ + Dàn nóng: 23kg
+  Giá tiền: Khoảng 27 triệu đồng
+
+Hãy cho tôi biết thêm thông tin về nhu cầu của bạn  để tôi có thể giúp bạn chọn được sản phẩm phù hợp!

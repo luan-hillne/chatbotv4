@@ -1,0 +1,44 @@
+2024/08/24 17:04:37 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 17:04:37 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 17:04:37 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 17:04:37 app_chat5,line: 33     INFO | InputText: bản nháp hoá đơn giá trị gia tăng xuất khi nào
+2024/08/24 17:04:37 main_run,line: 131     INFO | ---ChatText---
+2024/08/24 17:04:37 chat,line: 84     INFO | =====rasa=====
+2024/08/24 17:04:37 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/24 17:04:37 chat,line: 105     INFO | ====rasa done!====
+2024/08/24 17:04:37 chat,line: 109     INFO | =====LLM=====
+2024/08/24 17:04:38 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/24 17:04:39 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/24 17:04:39 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024/08/24 17:04:39 chat,line: 61     INFO | ==Conversation2==
+2024/08/24 17:04:40 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024/08/24 17:04:40 chat,line: 163     INFO | +LLM out+:
+None
+2024/08/24 17:04:40 chat,line: 165     INFO | =====LLM done!=====
+2024/08/24 17:04:40 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 17:04:40 main_run,line: 199     INFO | ---results---: Rất tiếc vì sự cố không mong muốn này. Chúng tôi đang nỗ lực khắc phục và sẽ sớm trở lại. Cảm ơn sự thông cảm của bạn!
+2024/08/24 23:00:32 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 23:00:32 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 23:00:32 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 23:00:32 app_chat5,line: 33     INFO | InputText: None
+2024/08/24 23:00:32 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 23:00:32 main_run,line: 199     INFO | ---results---: Xin chào! Mình là trợ lý AI của bạn tại AIO. Mình đang phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn. Mình sẵn sàng giúp bạn với câu hỏi về chính sách và tìm kiếm sản phẩm. Hôm nay bạn cần mình hỗ trợ gì không?
+2024/08/24 23:02:36 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 23:02:36 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 23:02:36 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 23:02:36 app_chat5,line: 33     INFO | InputText: None
+2024/08/24 23:02:36 main_run,line: 177     INFO | ---Inventory---
+2024/08/24 23:02:37 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 23:02:37 main_run,line: 199     INFO | ---results---: Anh/chị xin thông cảm! Hiện tại hàng tại khu vuc đã hết hãy liên hệ chi nhánh để bổ sung thêm hàng 
+
+Tổng số lượng hàng hóa trên cả nước là 3 (ngoại trừ kho kv)
+---------
+CNCT: BDG
+SP: Thiết bị biến tần Inverter SUN2000-100KTL-M1 bao gồm phụ kiện: - Gói phụ kiện cho SUN2000 V500R001 - Gói phụ kiện để khiêng Inverter
+SL: 2
+---------
+CNCT: HNI
+SP: Thiết bị biến tần Inverter SUN2000-100KTL-M1 bao gồm phụ kiện: - Gói phụ kiện cho SUN2000 V500R001 - Gói phụ kiện để khiêng Inverter
+SL: 1
+---------

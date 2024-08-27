@@ -1,0 +1,118 @@
+2024/08/23 13:49:59 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 13:49:59 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 13:49:59 app_chat6,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 13:49:59 app_chat6,line: 33     INFO | InputText: nồi cơm aio
+2024/08/23 13:49:59 main_run,line: 131     INFO | ---ChatText---
+2024/08/23 13:49:59 chat,line: 84     INFO | =====rasa=====
+2024/08/23 13:49:59 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/23 13:49:59 chat,line: 105     INFO | ====rasa done!====
+2024/08/23 13:49:59 chat,line: 109     INFO | =====LLM=====
+2024/08/23 13:50:00 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/23 13:50:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/23 13:50:01 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.002s]
+2024/08/23 13:50:01 _transport,line: 349     INFO | POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.003s]
+2024/08/23 13:50:01 retrieval,line: 541     INFO | ======== elasticsearch output ==========:
+Dựa vào bối cảnh sau để trả lời
+
+1. *nồi cơm điện aio smart aiorco3l23g/4co - Mã: M&EGD000244
+  Thông số sản phẩm: công nghệ: cao tần/từ
+công suất (danh định): 1300w
+nguồn định mức: 220vac - 50/60hz
+dung tích: 4.0l
+chất liệu lòng nồi: hợp kim nhôm phủ chống dính
+độ dày lòng nồi: 1.5mm
+chức năng: giữ ấm, hâm nóng, nấu nhanh, nấu cháo, nấu súp, hấp, làm bánh
+màn hình led hiển thị thời gian
+ngôn ngữ : tiếng việt
+kích thước sản phẩm (dxrxc): 344x271x218 mm
+khối lượng sản phẩm: 4.75 kg
+bào hành : 12 tháng
+kích hoạt bảo hành điện tử
+ - Giá tiền: 2,373,000 đ*
+
+2. *nồi cơm điện cao tần bluestone rcb- 5991 - Mã: M&ENC100020
+  Thông số sản phẩm: công suất : 1200w
+dung tích : 1.5 lít
+công nghệ nấu ih
+9 chế độ nấu cài đặt sẵn tiện dụng
+bảng điều khiển cảm ứng thông minh
+lòng nồi niêu, dày 1.8mm phủ lớp chống dính
+ - Giá tiền: 3,465,000 đ*
+
+3. *nồi cơm điện kalite kl-618, dung tích 1,8 lít - Mã: M&EGD000167
+  Thông số sản phẩm: • thương hiệu: kalite
+• màu sắc: xanh lá đậm
+• dung tích: 1.8l
+• công suất: 700w
+• điện áp: 220v/50hz
+• bảng điều khiển: nút bấm
+• màn hình hiển thị: đèn led
+• kích thước: 320 x 330 x 320 mm
+• trọng lượng tịnh: 3.48 kg
+• trọng lượng cả bao bì: 3.9 kg
+• phụ kiện đi kèm: thìa xới cơm (1), khay hấp (1),
+cốc đong gạo (1)
+ - Giá tiền: 697,070 đ*
+
+4. *nồi cơm điện kalite kl-619, dung tích 1,8 lít - Mã: M&EGD000164
+  Thông số sản phẩm: • thương hiệu: kalite
+• màu sắc: xanh lá đậm
+• dung tích: 1.8l
+• công suất: 700w
+• điện áp: 220v / 50hz
+• bảng điều khiển: nút bấm
+• màn hình hiển thị: đèn led
+• trọng lượng cả bao bì: 4 kg
+• phụ kiện đi kèm: thìa xới cơm (1), khay hấp (1), cốc đong gạo (1)
+ - Giá tiền: 718,000 đ*
+
+2024/08/23 13:50:01 chat,line: 65     INFO | ==Conversation==
+2024/08/23 13:50:03 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/23 13:50:03 chat,line: 163     INFO | +LLM out+:
+Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho Anh/chị một số thông tin tham khảo về nồi cơm điện AIO:
+
+1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO - Mã: M&EGD000244
+ - Công suất: 1300W
+ - Dung tích: 4.0L
+ - Chất liệu lòng nồi: Hợp kim nhôm phủ chống dính
+ - Độ dày lòng nồi: 1.5mm
+ - Chức năng: Giữ ấm, hâm nóng, nấu nhanh, nấu cháo, nấu súp, hấp, làm bánh
+ - Màn hình LED hiển thị thời gian
+ - Ngôn ngữ: Tiếng Việt
+ - Kích thước sản phẩm (dxrxc): 344x271x218 mm
+ - Khối lượng sản phẩm: 4.75 kg
+ - Bảo hành: 12 tháng
+ - Giá tiền: 2,373,000 đ
+
+Nếu Anh/chị cần thêm thông tin chi tiết về sản phẩm này, hãy cho tôi biết!
+2024/08/23 13:50:03 chat,line: 165     INFO | =====LLM done!=====
+2024/08/23 13:50:03 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 13:50:03 main_run,line: 199     INFO | ---results---: Xin chào, dựa trên thông tin tôi đã tìm thấy, tôi cung cấp cho Anh/chị một số thông tin tham khảo về nồi cơm điện AIO:
+
+1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO - Mã: M&EGD000244
+ - Công suất: 1300W
+ - Dung tích: 4.0L
+ - Chất liệu lòng nồi: Hợp kim nhôm phủ chống dính
+ - Độ dày lòng nồi: 1.5mm
+ - Chức năng: Giữ ấm, hâm nóng, nấu nhanh, nấu cháo, nấu súp, hấp, làm bánh
+ - Màn hình LED hiển thị thời gian
+ - Ngôn ngữ: Tiếng Việt
+ - Kích thước sản phẩm : 344x271x218 mm
+ - Khối lượng sản phẩm: 4.75 kg
+ - Bảo hành: 12 tháng
+ - Giá tiền: 2,373,000 đ
+
+Nếu Anh/chị cần thêm thông tin chi tiết về sản phẩm này, hãy cho tôi biết!
+2024/08/23 15:08:09 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 15:08:09 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 15:08:09 app_chat6,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 15:08:09 app_chat6,line: 33     INFO | InputText: None
+2024/08/23 15:08:09 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 15:08:09 main_run,line: 199     INFO | ---results---: Xin chào! Là AI trợ lý tại AIO đây. Tôi vẫn đang trong giai đoạn phát triển và có thể không hoàn hảo. Hãy giúp tôi cải thiện bằng cách phản hồi về trải nghiệm của bạn. Tôi có thể hỗ trợ bạn gì về chính sách hoặc thông tin sản phẩm hôm nay?
+2024/08/23 15:43:07 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 15:43:07 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 15:43:07 app_chat6,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 15:43:07 app_chat6,line: 33     INFO | InputText: None
+2024/08/23 15:43:07 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 15:43:07 main_run,line: 199     INFO | ---results---: Chào bạn! Tôi là AI hỗ trợ của AIO. Do đang trong quá trình hoàn thiện nên tôi có thể mắc lỗi. Mọi góp ý của bạn đều giúp tôi ngày càng hoàn thiện. Tôi có thể giúp gì cho bạn về các vấn đề chính sách hoặc tìm kiếm thông tin sản phẩm hôm nay?

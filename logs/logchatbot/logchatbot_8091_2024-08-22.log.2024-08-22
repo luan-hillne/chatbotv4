@@ -1,0 +1,86 @@
+2024/08/23 16:30:14 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 16:30:14 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 16:30:14 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 16:30:14 app_chat5,line: 33     INFO | InputText: None
+2024/08/23 16:30:14 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 16:30:14 main_run,line: 199     INFO | ---results---: Xin chào! Mình là trợ lý AI của bạn tại AIO. Mình đang phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn. Mình sẵn sàng giúp bạn với câu hỏi về chính sách và tìm kiếm sản phẩm. Hôm nay bạn cần mình hỗ trợ gì không?
+2024/08/23 19:56:36 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 19:56:36 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 19:56:36 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 19:56:36 app_chat5,line: 33     INFO | InputText: None
+2024/08/23 19:56:36 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 19:56:36 main_run,line: 199     INFO | ---results---: Xin chào anh/chị! Tôi rất hân hạnh được hỗ trợ anh chị trong việc tìm kiếm sản phẩm và chính sách.
+2024/08/23 20:01:25 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 20:01:25 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 20:01:25 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 20:01:25 app_chat5,line: 33     INFO | InputText: None
+2024/08/23 20:01:25 main_run,line: 177     INFO | ---Inventory---
+2024/08/23 20:01:26 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 20:01:26 main_run,line: 199     INFO | ---results---: Anh/chị xin thông cảm! Hiện tại hàng tại vcc đã hết hãy liên hệ chi nhánh để bổ sung thêm hàng 
+
+Tổng số lượng hàng hóa trên cả nước là 214 (ngoại trừ kho kv)
+---------
+CNCT: TBH
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 8
+---------
+CNCT: TGG
+SP: Dàn Nóng Máy lạnh hiệu Carrier: 38GCVBE013-703V
+SL: 1
+---------
+CNCT: GLI
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE013-703V
+SL: 1
+---------
+CNCT: HNI
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 24
+---------
+CNCT: TTH
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 5
+---------
+CNCT: NTN
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 8
+---------
+CNCT: QNI
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 4
+---------
+CNCT: SLA
+SP: Dàn Nóng Máy lạnh hiệu Carrier: 38GCVBE010-703V
+SL: 2
+---------
+CNCT: SLA
+SP: Dàn Nóng Máy lạnh hiệu Carrier: 38GCVBE013-703V
+SL: 1
+---------
+CNCT: BLU
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 1
+---------
+CNCT: BDG
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE018-703V
+SL: 2
+---------
+CNCT: VTU
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 10
+---------
+CNCT: PTO
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 15
+---------
+CNCT: LAN
+SP: Dàn Nóng Máy lạnh hiệu Carrier: 38GCVBE013-703V
+SL: 2
+---------
+CNCT: LAN
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 6
+---------
+CNCT: BNH
+SP: Dàn nóng máy lạnh hiệu Carrier: 38GCVUE010-703V
+SL: 3
+---------

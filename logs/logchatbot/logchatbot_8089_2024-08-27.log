@@ -1,0 +1,11 @@
+2024/08/27 08:19:03 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/27 08:19:03 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/27 08:19:03 app_chat6,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/27 08:19:03 app_chat6,line: 33     INFO | InputText: Bạn muốn tra cứu hàng tồn kho?
+2024/08/27 08:19:03 main_run,line: 131     INFO | ---ChatText---
+2024/08/27 08:19:03 chat,line: 81     INFO | =====rasa=====
+2024/08/27 08:19:03 chat,line: 100     INFO | +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024/08/27 08:19:03 chat,line: 102     INFO | ====rasa done!====
+2024/08/27 08:19:03 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/27 08:19:03 main_run,line: 199     INFO | ---results---: Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:

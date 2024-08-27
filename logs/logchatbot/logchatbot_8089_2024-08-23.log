@@ -1,0 +1,6 @@
+2024/08/26 15:57:31 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/26 15:57:31 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/26 15:57:31 app_chat6,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/26 15:57:31 app_chat6,line: 33     INFO | InputText: None
+2024/08/26 15:57:31 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/26 15:57:31 main_run,line: 199     INFO | ---results---: Chào bạn! Tôi là AI hỗ trợ của AIO. Do đang trong quá trình hoàn thiện nên tôi có thể mắc lỗi. Mọi góp ý của bạn đều giúp tôi ngày càng hoàn thiện. Tôi có thể giúp gì cho bạn về các vấn đề chính sách hoặc tìm kiếm thông tin sản phẩm hôm nay?

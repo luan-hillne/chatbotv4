@@ -1,0 +1,6 @@
+2024/08/25 08:27:45 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/25 08:27:45 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/25 08:27:45 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/25 08:27:45 app_chat7,line: 33     INFO | InputText: None
+2024/08/25 08:27:45 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/25 08:27:45 main_run,line: 199     INFO | ---results---: Xin chào anh/chị! Tôi rất hân hạnh được hỗ trợ anh chị trong việc tìm kiếm sản phẩm và chính sách.

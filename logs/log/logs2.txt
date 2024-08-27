@@ -1,0 +1,42 @@
+/data/anaconda3/envs/langchain/lib/python3.10/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+/data/anaconda3/envs/langchain/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+INFO:     Started server process [2663306]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8097 (Press CTRL+C to quit)
+----Inventory-----
+------ma------ 38/24GCVUE024
+============get_inventory============
+============in_stock============
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [], 'inventory_status': False, 'similarity_status': False, 'content': '- Với mã/tên sản phẩm 38/24GCVUE024: \nHiện tại tôi không thể tra cứu thông tin hàng tồn kho của sản phẩm bạn đang mong muốn, xin vui lòng thử lại sau.\n\n', 'status': 200, 'message': '', 'time_processing': 21.02142095565796, 'type_input': 'inventory', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:50274 - "POST /llm HTTP/1.1" 200 OK
+----ChatText-----
+----------------NEW_SESSION--------------
+user_id  =  264113
+input_text  =  hợp đồng bị sai sđt khách hàng nên ko lấy dx mã otp, nhờ hướng dẫn 
+sesstion id  =  280359971
+======rasa======
+response.json(): [{'recipient_id': 'test', 'text': 'LLM_predict'}]
++rasa out+:
+ LLM_predict
+====rasa done!====
+======LLM======
+Có phải bạn tìm kiếm sản phẩm máy lọc không khí daikin mc30vvm - h
+Độ match: 42
+=====Not product found=====
+query text in chat hợp đồng bị sai sđt khách hàng nên ko lấy dx mã otp, nhờ hướng dẫn 
+= =  Conversation2  = =
+======total_tokens=====
+ 654
++LLM out+:
+ Xin lỗi, em không có thông tin về câu trả lời. Anh/chị hãy tham khảo thông tin hướng dẫn trên website hoặc liên hệ với bộ phận chăm sóc khách hàng để được hỗ trợ tốt nhất!
+======LLM done!======
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [], 'inventory_status': False, 'similarity_status': False, 'content': 'Xin lỗi, em không có thông tin về câu trả lời. Anh/chị hãy tham khảo thông tin hướng dẫn trên website hoặc liên hệ với bộ phận chăm sóc khách hàng để được hỗ trợ tốt nhất!', 'status': 200, 'message': '', 'time_processing': 2.4034721851348877, 'type_input': 'text', 'total_tokens': 654, 'error_code': ''}
+INFO:     10.248.242.202:50276 - "POST /llm HTTP/1.1" 200 OK
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [{'payload': 'Bạn muốn tra cứu hàng tồn kho?', 'title': 'Bạn muốn tra cứu hàng tồn kho?'}, {'payload': 'Tôi cần máy giặt nào có khối lượng giặt 10kg?', 'title': 'Tôi cần máy giặt nào có khối lượng giặt 10kg?'}, {'payload': 'Tôi quan tâm điều hòa có giá trên 10 triệu', 'title': 'Tôi quan tâm điều hòa có giá trên 10 triệu'}, {'payload': 'Đèn năng lượng mặt trời công suất 90W', 'title': 'Đèn năng lượng mặt trời công suất 90W'}], 'inventory_status': False, 'similarity_status': False, 'content': 'Chào bạn! Tôi là AI hỗ trợ của AIO. Do đang trong quá trình hoàn thiện nên tôi có thể mắc lỗi. Mọi góp ý của bạn đều giúp tôi ngày càng hoàn thiện. Tôi có thể giúp gì cho bạn về các vấn đề chính sách hoặc tìm kiếm thông tin sản phẩm hôm nay?', 'status': 200, 'message': '', 'time_processing': 0.0021407604217529297, 'type_input': 'first_text', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:50278 - "POST /llm HTTP/1.1" 200 OK

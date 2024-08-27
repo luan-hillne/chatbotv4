@@ -1,0 +1,37 @@
+2024/08/24 15:53:17 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 15:53:17 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 15:53:17 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 15:53:17 app_chat8,line: 33     INFO | InputText: None
+2024/08/24 15:53:17 main_run,line: 177     INFO | ---Inventory---
+2024/08/24 15:53:17 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 15:53:17 main_run,line: 199     INFO | ---results---: Anh/chị xin thông cảm! Hiện tại hàng tại đắk nông đã hết hãy liên hệ chi nhánh để bổ sung thêm hàng hoặc kiểm tra lại thông tin sản phẩm muốn tra cứu.
+2024/08/24 17:04:16 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 17:04:16 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 17:04:16 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 17:04:16 app_chat8,line: 33     INFO | InputText: None
+2024/08/24 17:04:16 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 17:04:16 main_run,line: 199     INFO | ---results---: Xin chào! Là AI trợ lý tại AIO đây. Tôi vẫn đang trong giai đoạn phát triển và có thể không hoàn hảo. Hãy giúp tôi cải thiện bằng cách phản hồi về trải nghiệm của bạn. Tôi có thể hỗ trợ bạn gì về chính sách hoặc thông tin sản phẩm hôm nay?
+2024/08/25 08:26:18 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/25 08:26:18 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/25 08:26:18 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/25 08:26:18 app_chat8,line: 33     INFO | InputText: Tôi cần máy giặt nào có khối lượng giặt 10kg?
+2024/08/25 08:26:18 main_run,line: 131     INFO | ---ChatText---
+2024/08/25 08:26:18 chat,line: 84     INFO | =====rasa=====
+2024/08/25 08:26:18 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/25 08:26:18 chat,line: 105     INFO | ====rasa done!====
+2024/08/25 08:26:18 chat,line: 109     INFO | =====LLM=====
+2024/08/25 08:26:20 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/25 08:26:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/25 08:26:21 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.003s]
+2024/08/25 08:26:21 _transport,line: 349     INFO | POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.093s]
+2024/08/25 08:26:21 retrieval,line: 541     INFO | ======== elasticsearch output ==========:
+Dựa vào bối cảnh sau để trả lời
+trong database không có câu trả lời, hãy dựa vào lịch sử trò chuyện trước để trả lời:
+2024/08/25 08:26:21 chat,line: 65     INFO | ==Conversation==
+2024/08/25 08:26:21 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024/08/25 08:26:21 chat,line: 163     INFO | +LLM out+:
+None
+2024/08/25 08:26:21 chat,line: 165     INFO | =====LLM done!=====
+2024/08/25 08:26:21 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/25 08:26:21 main_run,line: 199     INFO | ---results---: Rất tiếc vì sự cố không mong muốn này. Chúng tôi đang nỗ lực khắc phục và sẽ sớm trở lại. Cảm ơn sự thông cảm của bạn!

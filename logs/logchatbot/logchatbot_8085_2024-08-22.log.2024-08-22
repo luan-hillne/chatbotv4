@@ -1,0 +1,43 @@
+2024/08/23 15:43:27 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 15:43:27 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 15:43:27 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 15:43:27 app_chat8,line: 33     INFO | InputText: công việc chưa có ảnh tiến độ
+2024/08/23 15:43:27 main_run,line: 131     INFO | ---ChatText---
+2024/08/23 15:43:27 chat,line: 84     INFO | =====rasa=====
+2024/08/23 15:43:27 chat,line: 103     INFO | +rasa out+:
+LLM_predict
+2024/08/23 15:43:27 chat,line: 105     INFO | ====rasa done!====
+2024/08/23 15:43:27 chat,line: 109     INFO | =====LLM=====
+2024/08/23 15:43:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/23 15:43:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/08/23 15:43:34 _transport,line: 349     INFO | HEAD http://10.248.243.105:9200/chatbot [status:200 duration:0.014s]
+2024/08/23 15:43:35 _transport,line: 349     INFO | POST http://10.248.243.105:9200/chatbot/_search [status:200 duration:0.050s]
+2024/08/23 15:43:35 retrieval,line: 541     INFO | ======== elasticsearch output ==========:
+Dựa vào bối cảnh sau để trả lời
+
+2024/08/23 15:43:35 chat,line: 65     INFO | ==Conversation==
+2024/08/23 15:43:35 _client,line: 1026     INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024/08/23 15:43:35 chat,line: 163     INFO | +LLM out+:
+None
+2024/08/23 15:43:35 chat,line: 165     INFO | =====LLM done!=====
+2024/08/23 15:43:35 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 15:43:35 main_run,line: 199     INFO | ---results---: Rất tiếc vì sự cố không mong muốn này. Chúng tôi đang nỗ lực khắc phục và sẽ sớm trở lại. Cảm ơn sự thông cảm của bạn!
+2024/08/23 18:45:50 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 18:45:50 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 18:45:50 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 18:45:50 app_chat8,line: 33     INFO | InputText: None
+2024/08/23 18:45:50 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 18:45:50 main_run,line: 199     INFO | ---results---: Rất vui khi được hỗ trợ anh/chị trong việc tìm kiếm sản phẩm. Do đang trong quá trình hoàn thiện nên tôi có thể mắc lỗi. Mong anh/chị thông cảm!
+2024/08/23 19:24:40 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 19:24:40 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 19:24:40 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 19:24:40 app_chat8,line: 33     INFO | InputText: None
+2024/08/23 19:24:40 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 19:24:40 main_run,line: 199     INFO | ---results---: Xin chào! Là AI trợ lý tại AIO đây. Tôi vẫn đang trong giai đoạn phát triển và có thể không hoàn hảo. Hãy giúp tôi cải thiện bằng cách phản hồi về trải nghiệm của bạn. Tôi có thể hỗ trợ bạn gì về chính sách hoặc thông tin sản phẩm hôm nay?
+2024/08/23 19:59:43 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/23 19:59:43 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/23 19:59:43 app_chat8,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/23 19:59:43 app_chat8,line: 33     INFO | InputText: None
+2024/08/23 19:59:43 main_run,line: 177     INFO | ---Inventory---
+2024/08/23 19:59:44 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/23 19:59:44 main_run,line: 199     INFO | ---results---: Rất tiếc vì sự cố không mong muốn này. Chúng tôi đang nỗ lực khắc phục và sẽ sớm trở lại. Cảm ơn sự thông cảm của bạn!

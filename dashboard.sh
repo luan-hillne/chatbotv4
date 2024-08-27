@@ -1,0 +1,1 @@
+nohup python dashboard.py >logs/log/dashboard.txt 2>&1 & echo $! > logs/pid/rundashboard.pid

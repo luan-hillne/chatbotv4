@@ -1,0 +1,24 @@
+2024/08/24 23:01:05 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 23:01:05 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 23:01:05 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 23:01:05 app_chat7,line: 33     INFO | InputText: None
+2024/08/24 23:01:05 main_run,line: 177     INFO | ---Inventory---
+2024/08/24 23:01:06 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 23:01:06 main_run,line: 199     INFO | ---results---: Anh/chị xin thông cảm! Hiện tại hàng tại kv2 đã hết hãy liên hệ chi nhánh để bổ sung thêm hàng hoặc kiểm tra lại thông tin sản phẩm muốn tra cứu.
+2024/08/24 23:01:58 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/24 23:01:58 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/24 23:01:58 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/24 23:01:58 app_chat7,line: 33     INFO | InputText: tra cứu hàng tồn kho 100ktl-m1
+2024/08/24 23:01:58 main_run,line: 131     INFO | ---ChatText---
+2024/08/24 23:01:58 chat,line: 84     INFO | =====rasa=====
+2024/08/24 23:01:58 chat,line: 103     INFO | +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024/08/24 23:01:58 chat,line: 105     INFO | ====rasa done!====
+2024/08/24 23:01:58 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/24 23:01:58 main_run,line: 199     INFO | ---results---: Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024/08/25 08:27:45 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/25 08:27:45 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/25 08:27:45 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/25 08:27:45 app_chat7,line: 33     INFO | InputText: None
+2024/08/25 08:27:45 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/25 08:27:45 main_run,line: 199     INFO | ---results---: Xin chào anh/chị! Tôi rất hân hạnh được hỗ trợ anh chị trong việc tìm kiếm sản phẩm và chính sách.

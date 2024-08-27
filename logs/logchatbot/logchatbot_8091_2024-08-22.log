@@ -1,0 +1,86 @@
+2024/08/26 15:40:17 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/26 15:40:18 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/26 15:40:18 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/26 15:40:18 app_chat5,line: 33     INFO | InputText: None
+2024/08/26 15:40:18 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/26 15:40:18 main_run,line: 199     INFO | ---results---: Xin chào anh/chị! Tôi rất hân hạnh được hỗ trợ anh chị trong việc tìm kiếm sản phẩm và chính sách.
+2024/08/26 15:41:05 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/26 15:41:05 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/26 15:41:05 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/26 15:41:05 app_chat5,line: 33     INFO | InputText: None
+2024/08/26 15:41:05 main_run,line: 177     INFO | ---Inventory---
+2024/08/26 15:41:05 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/26 15:41:05 main_run,line: 199     INFO | ---results---: Anh/chị xin thông cảm! Hiện tại hàng tại quảng bình đã hết hãy liên hệ chi nhánh để bổ sung thêm hàng 
+
+Tổng số lượng hàng hóa trên cả nước là 1866 (ngoại trừ kho kv)
+---------
+CNCT: YBI
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5
+SL: 7
+---------
+CNCT: VLG
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 17
+---------
+CNCT: THA
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 104
+---------
+CNCT: TTH
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 19
+---------
+CNCT: LAN
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 3
+---------
+CNCT: NDH
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN
+SL: 74
+---------
+CNCT: HGG
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 5
+---------
+CNCT: AGG
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5
+SL: 2
+---------
+CNCT: QNM
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 16
+---------
+CNCT: NDH
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5
+SL: 21
+---------
+CNCT: GLI
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5
+SL: 24
+---------
+CNCT: GLI
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 27
+---------
+CNCT: DNI
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN
+SL: 24
+---------
+CNCT: CMU
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5
+SL: 23
+---------
+CNCT: CBG
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6
+SL: 1
+---------
+CNCT: CBG
+SP: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5
+SL: 4
+---------
+2024/08/26 15:57:16 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/26 15:57:16 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/26 15:57:16 app_chat5,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/26 15:57:16 app_chat5,line: 33     INFO | InputText: None
+2024/08/26 15:57:16 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/26 15:57:16 main_run,line: 199     INFO | ---results---: Xin chào! Là AI trợ lý tại AIO đây. Tôi vẫn đang trong giai đoạn phát triển và có thể không hoàn hảo. Hãy giúp tôi cải thiện bằng cách phản hồi về trải nghiệm của bạn. Tôi có thể hỗ trợ bạn gì về chính sách hoặc thông tin sản phẩm hôm nay?

@@ -1,0 +1,28 @@
+2024/08/27 06:48:11 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/27 06:48:11 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/27 06:48:11 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/27 06:48:11 app_chat7,line: 33     INFO | InputText: None
+2024/08/27 06:48:11 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/27 06:48:11 main_run,line: 199     INFO | ---results---: Xin chào! Mình là trợ lý AI của bạn tại AIO. Mình đang phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn. Mình sẵn sàng giúp bạn với câu hỏi về chính sách và tìm kiếm sản phẩm. Hôm nay bạn cần mình hỗ trợ gì không?
+2024/08/27 08:13:06 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/27 08:13:06 log_file,line: 27     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/08/27 08:13:06 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/27 08:13:06 log_file,line: 28     INFO | Logger object created successfully..
+2024/08/27 08:13:06 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/27 08:13:06 app_chat7,line: 32     INFO | ----------------NEW_SESSION--------------
+2024/08/27 08:13:06 app_chat7,line: 33     INFO | InputText: Bạn muốn tra cứu hàng tồn kho?
+2024/08/27 08:13:06 app_chat7,line: 33     INFO | InputText: Bạn muốn tra cứu hàng tồn kho?
+2024/08/27 08:13:06 main_run,line: 131     INFO | ---ChatText---
+2024/08/27 08:13:06 main_run,line: 131     INFO | ---ChatText---
+2024/08/27 08:13:06 chat,line: 81     INFO | =====rasa=====
+2024/08/27 08:13:06 chat,line: 81     INFO | =====rasa=====
+2024/08/27 08:13:06 chat,line: 100     INFO | +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024/08/27 08:13:06 chat,line: 100     INFO | +rasa out+:
+Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024/08/27 08:13:06 chat,line: 102     INFO | ====rasa done!====
+2024/08/27 08:13:06 chat,line: 102     INFO | ====rasa done!====
+2024/08/27 08:13:06 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/27 08:13:06 db_postgresql,line: 71     INFO | ======== logs_chat_saleman sucessfully! ==========}
+2024/08/27 08:13:06 main_run,line: 199     INFO | ---results---: Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+2024/08/27 08:13:06 main_run,line: 199     INFO | ---results---: Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:

@@ -1,0 +1,49 @@
+/data/anaconda3/envs/langchain/lib/python3.10/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+/data/anaconda3/envs/langchain/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+INFO:     Started server process [2663311]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8087 (Press CTRL+C to quit)
+----------------NEW_SESSION--------------
+NumberRequest 1
+User  =  279706
+InputText  =  tồn kho
+----ChatText-----
+----------------NEW_SESSION--------------
+user_id  =  279706
+input_text  =  tồn kho
+sesstion id  =  9010013501
+======rasa======
+response.json(): [{'recipient_id': 'test', 'text': 'Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:'}]
++rasa out+:
+ Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+====rasa done!====
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [], 'inventory_status': True, 'similarity_status': False, 'content': 'Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:', 'status': 200, 'message': '', 'time_processing': 0.06900835037231445, 'type_input': 'text', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:48592 - "POST /llm HTTP/1.1" 200 OK
+----------------NEW_SESSION--------------
+NumberRequest 2
+User  =  264113
+InputText  =  None
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [{'payload': 'Bạn muốn tra cứu hàng tồn kho?', 'title': 'Bạn muốn tra cứu hàng tồn kho?'}, {'payload': 'Tôi cần máy giặt nào có khối lượng giặt 10kg?', 'title': 'Tôi cần máy giặt nào có khối lượng giặt 10kg?'}, {'payload': 'Tôi quan tâm điều hòa có giá trên 10 triệu', 'title': 'Tôi quan tâm điều hòa có giá trên 10 triệu'}, {'payload': 'Đèn năng lượng mặt trời công suất 90W', 'title': 'Đèn năng lượng mặt trời công suất 90W'}], 'inventory_status': False, 'similarity_status': False, 'content': 'Xin chào! Mình là trợ lý AI của bạn tại AIO. Mình đang phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn. Mình sẵn sàng giúp bạn với câu hỏi về chính sách và tìm kiếm sản phẩm. Hôm nay bạn cần mình hỗ trợ gì không?', 'status': 200, 'message': '', 'time_processing': 0.002052783966064453, 'type_input': 'first_text', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:50082 - "POST /llm HTTP/1.1" 200 OK
+----------------NEW_SESSION--------------
+NumberRequest 3
+User  =  442050
+InputText  =  Bạn muốn tra cứu hàng tồn kho?
+----ChatText-----
+----------------NEW_SESSION--------------
+user_id  =  442050
+input_text  =  Bạn muốn tra cứu hàng tồn kho?
+sesstion id  =  9007867961
+======rasa======
+response.json(): [{'recipient_id': 'test', 'text': 'Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:'}]
++rasa out+:
+ Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:
+====rasa done!====
+logs_chat_saleman sucessfully!
+results: {'products': [], 'product_similarity': [], 'terms': [], 'inventory_status': True, 'similarity_status': False, 'content': 'Anh/chị vui lòng nhập mã hoặc tên sản phẩm và mã tỉnh theo mẫu sau:', 'status': 200, 'message': '', 'time_processing': 0.06861042976379395, 'type_input': 'text', 'total_tokens': '', 'error_code': ''}
+INFO:     10.248.242.202:50534 - "POST /llm HTTP/1.1" 200 OK
